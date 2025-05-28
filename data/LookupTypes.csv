@@ -1,0 +1,41 @@
+lookup_type_id,name,extracted_time_utc
+3,Match length,2025-03-31 21:15:40.733
+10,Hand,2025-03-31 21:15:40.733
+11,Bowling style,2025-03-31 21:15:40.733
+13,Gender,2025-03-31 21:15:40.733
+14,Striker movement,2025-03-31 21:15:40.733
+16,Ball type,2025-03-31 21:15:40.733
+24,Stroke,2025-03-31 21:15:40.733
+25,Hemisphere,2025-03-31 21:15:40.733
+33,Fielding position,2025-03-31 21:15:40.733
+36,Time of day,2025-03-31 21:15:40.733
+37,Coding state,2025-03-31 21:15:40.733
+2801,Captaincy,2025-03-31 21:15:40.733
+2802,Toss decision,2025-03-31 21:15:40.733
+2803,Team innings comparison,2025-03-31 21:15:40.733
+2804,Team match result,2025-03-31 21:15:40.733
+2805,Bowler pace spin,2025-03-31 21:15:40.733
+2806,How out,2025-03-31 21:15:40.733
+2807,DRS type,2025-03-31 21:15:40.733
+2808,Injury type,2025-03-31 21:15:40.733
+2809,Hit to octant,2025-03-31 21:15:40.733
+2810,Stroke intent,2025-03-31 21:15:40.733
+2811,Shot quality,2025-03-31 21:15:40.733
+2812,Ball movement,2025-03-31 21:15:40.733
+2813,Team innings closure,2025-03-31 21:15:40.733
+2814,Player lineup status,2025-03-31 21:15:40.733
+2815,Ball speed group,2025-03-31 21:15:40.733
+2816,Ball speed group by 5 km/hr,2025-03-31 21:15:40.733
+2817,Pitch length group by metre,2025-03-31 21:15:40.733
+2818,Pitch length group by half metre,2025-03-31 21:15:40.733
+2819,Pitch length group for pace 1,2025-03-31 21:15:40.733
+2820,Pitch length group for pace 2,2025-03-31 21:15:40.733
+2821,Pitch length group for spin 1,2025-03-31 21:15:40.733
+2822,Pitch length group for spin 2,2025-03-31 21:15:40.733
+2823,"Line group for pace (pitch, contact and at stumps)",2025-03-31 21:15:40.733
+2824,"Line group for spin (pitch, contact and at stumps)",2025-03-31 21:15:40.733
+2825,Contact length group 1,2025-03-31 21:15:40.733
+2826,Contact length group 2,2025-03-31 21:15:40.733
+2827,Movement in air group for swing,2025-03-31 21:15:40.733
+2828,Movement off pitch group for seam,2025-03-31 21:15:40.733
+2829,At stumps height group for bail height,2025-03-31 21:15:40.733

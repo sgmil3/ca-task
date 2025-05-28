@@ -1,0 +1,13 @@
+.streamlit/
+.venv/
+# Python cache files
+__pycache__/
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+.vscode/
+*.lock
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+# Pytest cache
+.cache
+data/ReadMe.txt
