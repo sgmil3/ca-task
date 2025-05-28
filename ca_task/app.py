@@ -340,10 +340,27 @@ st.markdown(
 # Sidebar navigation with presentation flow
 st.sidebar.title("Presentation Navigation")
 st.sidebar.markdown("---")
+# Section navigation with scroll-to-top on select
 page = st.sidebar.selectbox(
     "Select Section:",
     ["Introduction & Context", "Dashboard Presentation"],
     help="Navigate through the presentation sections",
+    key="presentation_section_select"
+)
+
+# Scroll to top on section change (Streamlit workaround)
+st.markdown(
+    """
+    <script>
+    const sectionSelect = window.parent.document.querySelector('select[data-baseweb="select"]');
+    if (sectionSelect) {
+        sectionSelect.addEventListener('change', function() {
+            window.parent.scrollTo(0, 0);
+        });
+    }
+    </script>
+    """,
+    unsafe_allow_html=True,
 )
 
 # Add presentation context in sidebar
